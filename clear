@@ -1,0 +1,43 @@
+[33mcommit 92cd38f68bffaddbef0c246e3e416809e2c93faf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mr[m[33m, [m[1;32mRamaNueva[m[33m)[m
+Author: [1;31mJesusGomezDev10[m <gluna11@alumnos.uaq.mx>
+Date:   Mon Oct 2 19:19:31 2023 -0600
+
+    nuevo archivo.txt agreagado
+
+[33mcommit 3c8310827acfbf61a4392ff448f36948da4ec55c[m
+Author: [1;31mJesusGomezDev10[m <gluna11@alumnos.uaq.mx>
+Date:   Sun Oct 1 16:01:07 2023 -0600
+
+    Revert "Imagen-Agregada"
+    
+    This reverts commit 7d8e03cd959a142199100b62d01f6b436fc56ab3.
+
+[33mcommit 7d8e03cd959a142199100b62d01f6b436fc56ab3[m
+Author: [1;31mJesusGomezDev10[m <gluna11@alumnos.uaq.mx>
+Date:   Sun Oct 1 15:54:24 2023 -0600
+
+    Imagen-Agregada
+
+[33mcommit b4467da3e9bd72d54411a03328366ecba54b678a[m
+Author: [1;31mJesusGomezDev10[m <gluna11@alumnos.uaq.mx>
+Date:   Sun Oct 1 15:51:13 2023 -0600
+
+    Nueva-Imagen
+
+[33mcommit 43d5a48e992c21048f5b26ff43a8955be135aeee[m
+Author: [1;31mJesusGomezDev10[m <gluna11@alumnos.uaq.mx>
+Date:   Sun Oct 1 14:36:07 2023 -0600
+
+    Edicion de index.html
+
+[33mcommit 7d15c29c2ef9ad398760ee00929af587a6fec1fd[m[33m ([m[1;31mrepositorioRemoto/master[m[33m, [m[1;32mnuevaRama[m[33m)[m
+Author: [1;31mJesusGomezDev10[m <gluna11@alumnos.uaq.mx>
+Date:   Sat Sep 30 17:08:29 2023 -0600
+
+    Cambios en nuevaRama
+
+[33mcommit 613ab38f2ae51abf29bcec58957486b1a8b0b49a[m
+Author: [1;31mJesusGomezDev10[m <gluna11@alumnos.uaq.mx>
+Date:   Sat Sep 30 15:36:18 2023 -0600
+
+    Primer commit
